@@ -1,3 +1,6 @@
+![ChatGPT Image 15 de mai  de 2025, 11_42_30](https://github.com/user-attachments/assets/aaac8a3e-f753-4236-ac6f-b6124eb41013)
+
+
 # Odoo 17 Installer para Debian 12
 
 Este projeto instala o Odoo 17 em servidores Debian 12 (Bookworm) usando um menu interativo e scripts modulares.
